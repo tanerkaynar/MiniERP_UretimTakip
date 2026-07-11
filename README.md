@@ -111,6 +111,31 @@ Sistem, servis odaklı ve katmanlı bir mimariyle geliştirilmiştir. Mobil (Kot
 
 
 
+
+
+---
+
+## Mobil Görseller
+
+| | |
+| :---: | :---: |
+| <img src="screenshots/mobile_operator.jpg" width="300"/> | <img src="screenshots/mobile_planner_home.jpg" width="300"/> |
+| <img src="screenshots/mobile_stock.jpg" width="300"/> | <img src="screenshots/mobile_settings.jpg" width="300"/> |
+
+---
+
+## Masaüstü Görselleri
+
+| | |
+| :---: | :---: |
+| <img src="screenshots/desktop_planner_products.jpg" width="450"/> | <img src="screenshots/desktop_planner_dash.jpg" width="450"/> |
+
+---
+
+## Demo (GIF)
+
+![NexusERP](screenshots/output.gif)
+
 ---
 
 ## Nasıl Çalıştırılır?
